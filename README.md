@@ -1,7 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=bachvo01) -->
 
-<div align ="center">
-    <img src= './images/pixelGif.gif' width = '20%' style = 'style="display: block; margin: 0 auto; border-radius: 5%'>
+<div align ="center" style ="border-radius: 5%; overflow">
+    <img src= './images/pixelGif.gif' width = '20%' style = 'border-radius: 10px"'>
 </div>
 
 <div align ="center">
