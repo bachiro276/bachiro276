@@ -9,7 +9,9 @@
 <h1> Waddup, I am Bach(iro). I build random stuffs. 🖖</h1>
 </div>&ensp;
 
-<p>A web developer who interested in building and designing web applications. My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. I occasionally make projects about science and random stuffs.</p>
+- A web developer who interested in building and designing web applications. 
+- My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. 
+- I occasionally make projects about science and random stuffs.
 
 
 ### :mailbox_with_no_mail: Reach out to me at:
