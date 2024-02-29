@@ -1,8 +1,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=bachvo01) -->
 
-<img src= './images/pixelGif.gif' width = '20%' style = 'position: relative; left: 50%; transform: translateX(-50%); border-radius: 0.5em;'>
+<kbd><img src= './images/pixelGif.gif' width = '20%' style = 'style="display: block; margin: 0 auto; border-radius: 5%'></kbd>
 
-<h3 style = 'position: relative; left: 50%; transform: translateX(-50%);'> Waddup, I am Bach(iro). I build random stuffs. 🖖</h3>
+<h3 style = 'style="display: block; margin: 0 auto; border-radius: 5%'> Waddup, I am Bach(iro). I build random stuffs. 🖖</h3>
 
 <p>A web developer who interested in building and designing web applications. My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. I occasionally make projects about science and random stuffs.</p>
 
@@ -56,9 +56,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width ='30px' height ='30px'/>
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width ='30px' height ='30px'/>
-          
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width ='30px' height ='30px'/>
 
