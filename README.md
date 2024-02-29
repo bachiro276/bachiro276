@@ -1,4 +1,4 @@
-### Waddup, I am Bach(iro) 🖖. I build random stuffs.
+### Waddup, I am Bach(iro). I build random stuffs. 🖖
 
 <!--
 **bachvo01/bachvo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
