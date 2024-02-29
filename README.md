@@ -1,13 +1,14 @@
 <!-- ![](https://komarev.com/ghpvc/?username=bachvo01) -->
 
-<div align ="center" style ="border-radius: 5%;">
-    <img src= './images/pixelGif.gif' width = '10%' style = 'border-radius: 10px"'>
-</div>
+
 
 <div align ="center">
 <h2> Waddup, I am Bach(iro). I build random stuffs. 🖖</h2>
 </div>
-<p>A web developer who interested in building and designing web applications. My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. I occasionally make projects about science and random stuffs.</p><br />
+<div align ="center">
+    <img src= './images/pixelGif.gif' width = '15%' style = 'border-radius: 10px"'>
+</div>
+<p>A web developer who interested in building and designing web applications. My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. I occasionally make projects about science and random stuffs.</p>
 
 ### :mailbox_with_no_mail: Reach out to me at:
 
@@ -15,7 +16,7 @@
 - <strong>LinkedIn</strong>: <a href ='www.linkedin.com/in/
   '>https://www.linkedin.com/in/bachiro-vo</a>
 
-</br>
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
