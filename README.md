@@ -7,7 +7,6 @@
 </div>
 <div align ="center">
 <h1>Waddup, I am Bach(iro) 🖖</h1>
-I build random stuffs.
 </div>&ensp;
 
 - A web developer who interested in building and designing web applications. 
