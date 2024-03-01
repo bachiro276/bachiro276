@@ -69,6 +69,19 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = '40px' height = '40px'/>
 
+
+
+<div align ='center'>
+    
+&ensp;
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachvo01&show_icons=true&theme=gotham)](https://github.com/bachvo01/github-readme-stats)
+
+</div>
+
+
+
+
 <!--
 **bachvo01/bachvo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
