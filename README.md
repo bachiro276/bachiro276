@@ -75,7 +75,14 @@
     
 &ensp;
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachvo01&show_icons=true&theme=gotham)](https://github.com/bachvo01/github-readme-stats)
+<a href="https://github.com/anuraghazr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bachvo01" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=bachvo01&theme=gotham)" />
+  
+</a>
 
 </div>
 
