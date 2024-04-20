@@ -9,9 +9,9 @@
 <h1>Hello there, I am Bach(iro) 🖖</h1>
 </div>&ensp;
 
-- A web developer who interested in building and designing web applications. 
-- My main expertise is to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. 
-- I occasionally make projects about science and random stuffs.
+- A software engineer who passionated in building and maintaining aesthetic applications. 
+- Thriving to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. 
+- Making projects about random stuff for experimental purposes.
 
 
 ### :mailbox_with_no_mail: Reach out to me at:
