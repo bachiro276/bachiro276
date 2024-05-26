@@ -9,6 +9,7 @@
 <h1>Hello there, I am Bach(iro) 🖖</h1>
 </div>&ensp;
 
+![](https://komarev.com/ghpvc/?username=bachvo01&style=flat)
 - A software engineer who passionated in building and maintaining aesthetic applications. 
 - Thriving to create <em><strong>minimal</strong></em>, <em><strong>efficient</strong></em>, and <em><strong>easy-to-use</strong></em> products. 
 - Making projects about random stuff for experimental purposes.
