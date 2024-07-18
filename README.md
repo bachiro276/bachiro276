@@ -86,9 +86,6 @@
     
 &ensp;
     
-<a href="https://github.com/anuraghazr/github-readme-stats">
-  <img height = 160 align="center" src="https://github-readme-stats.vercel.app/api?username=bachvo01" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
     
   <img height = 160 align="center" src="https://streak-stats.demolab.com?user=bachvo01&theme=gotham)" />
