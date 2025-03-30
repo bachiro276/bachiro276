@@ -21,7 +21,7 @@
 
 ### :mailbox_with_no_mail: Reach out to me at:
 
-- <strong>Portfolio Site</strong>: <a href='www.bachiro.dev'>bachiro.dev</a>
+- <strong>Portfolio Site</strong>: <a href='https://www.bachiro.dev'>bachiro.dev</a>
 - <strong>Gmail</strong>: <a href=''>bachvo01@gmail.com</a>
 - <strong>LinkedIn</strong>: <a href ='www.linkedin.com/in/
     '>https://www.linkedin.com/in/bachiro-vo</a>
