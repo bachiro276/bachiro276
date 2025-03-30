@@ -11,8 +11,6 @@
 <span><em>"Cogito, Ergo Sum"</em></span>
 </div>&ensp;
 
-I am a <em><strong>Software Engineer</strong></em> and I specialize in <em><strong>building robust applications from front to back</strong></em>, ensuring they are <em><strong>scalable, efficient, and beautifully designed</strong></em>.
-
 ### 🎯 Current missions:
 
 - Pursuing the **Master's degree**.
