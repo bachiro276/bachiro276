@@ -34,6 +34,8 @@
 
 &ensp;
 
+<div align ="center">
+
 <a href="https://github.com/anuraghazr/github-readme-stats">
   <img height = 160 align="center" src="https://github-readme-stats.vercel.app/api?username=bachvo01" />
 </a>
