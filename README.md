@@ -14,7 +14,7 @@
 ### 🎯 Current missions:
 
 - Pursuing the **Master's degree**.
-- Deepening knowledge in **AI & ML**.
+- Deepening knowledge in **AI & Data Science**.
 - Improving **software engineering principles**.
 - Reflecting on **technology, philosophy**, and **life**.
 
